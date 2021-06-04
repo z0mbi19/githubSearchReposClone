@@ -44,7 +44,12 @@
 
 ## :dart: Sobre
 
-Esse projeto e uma tentativa de mostrar o meu conhecimento com React e axios para fazer busca em uma api
+Esse projeto e uma tentativa de mostrar o meu conhecimento com React e axios para fazer busca em uma api.
+Nesse projeto eu usei o React por ter mais experiencia com a ferramenta.
+Usei o Axios por conciderar mais facil para implementação
+90% da css foi fei a mão e use o Material-ui para me ajudar na paginação
+Tive dificuldade para achar dados na api do git e por isso eu não consegui colocar mais elementos
+Se eu tivesse mais experiencia com a api eu conseguiria fazer mais
 
 ## :rocket: Tecnologias
 

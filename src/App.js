@@ -20,6 +20,7 @@ function App() {
       const result = await axios(
         `https://api.github.com/search/repositories?q=${data}&page=${pag}`
       );
+      console.log(result.data);
       setApi(result.data);
     };
 
